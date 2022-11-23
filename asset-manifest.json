@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactWebAdder/static/css/main.f958b7b4.css",
+    "main.js": "/reactWebAdder/static/js/main.fd0b6f8d.js",
+    "index.html": "/reactWebAdder/index.html",
+    "main.f958b7b4.css.map": "/reactWebAdder/static/css/main.f958b7b4.css.map",
+    "main.fd0b6f8d.js.map": "/reactWebAdder/static/js/main.fd0b6f8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f958b7b4.css",
+    "static/js/main.fd0b6f8d.js"
+  ]
+}
